@@ -15,8 +15,8 @@
 </p>
 
 <details>
-  <summary><b>:seedling: &nbsp;Currently I'm learning:</summary>
-  
+  <summary><b>:seedling: &nbsp;Currently I'm learning:</b></summary>
+  <br/>
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
@@ -24,7 +24,6 @@
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
-
 
 <!-- 
 HTML, CSS, JavaScript, Git, Github, Python
