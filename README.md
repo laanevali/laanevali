@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently Studying at [TPT](https://www.tptlive.ee/) \
 &nbsp;&nbsp;&nbsp;:camping: &nbsp;Love for nature and exploring.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about music, games and puzzles.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Also have a degree in civil engineering.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Also have a degree in civil engineering.
 
 <p align="center">
   <a href="mailto:rebeccalaanevali@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -15,8 +15,8 @@
 </p>
 
 <details>
-  <summary><b>:seedling: &nbsp;Currently I'm learning:</b></summary>
-  <br/>
+  <summary><b>:seedling: &nbsp;Currently I'm learning:</summary>
+  
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
