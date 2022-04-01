@@ -1,13 +1,10 @@
 ### Hi there 👋
 
 
-<p align=center>
-  <a href="https://github.com/laanevali">
-    <img src="https://badges.pufler.dev/visits/laanevali/laanevali?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/laanevali?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/laanevali?style=flat-square&color=black&logo=github">
-  </a>
+
+
+<p align=center>  
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=laanevali&show_icons=true&theme=radical">
 </p>
 
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
