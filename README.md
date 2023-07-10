@@ -14,7 +14,7 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=laanevali)]
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=laanevali)
 
 <details>
   <summary><b>:seedling: &nbsp;Currently I'm learning:</b></summary>
