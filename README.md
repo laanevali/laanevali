@@ -2,7 +2,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently Studying at [TPT](https://www.tptlive.ee/) \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Just finished as a Junoir Software Developer at [TPT](https://www.tptlive.ee/) \
 &nbsp;&nbsp;&nbsp;:camping: &nbsp;Love for nature and exploring.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about music, games and puzzles.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Also have a degree in civil engineering.
