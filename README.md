@@ -21,7 +21,7 @@
   <br/>
   
 ![.NET](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrRrzeuGXCOlvodb2pLI9zIdttrbb522bcyw)&nbsp;
-![NODEJS](https://www.nicepng.com/png/detail/80-803546_javascript-vector-transparent-node-js-logo-png.png)&nbsp;
+![NODEJS](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
