@@ -14,19 +14,22 @@
   </a>
 </p>
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=laanevali&theme=blue-green)
+
 <details>
   <summary><b>:seedling: &nbsp;Currently I'm learning:</b></summary>
   <br/>
   
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
+![.NET](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrRrzeuGXCOlvodb2pLI9zIdttrbb522bcyw)&nbsp;
+![NODEJS](https://www.nicepng.com/png/detail/80-803546_javascript-vector-transparent-node-js-logo-png.png)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 
+
 <!-- 
-HTML, CSS, JavaScript, Git, Github, Python
+.NET, NODE.JS, JavaScript, Git, Github, Python
 -->
 </details>
 
