@@ -20,8 +20,8 @@
   <summary><b>:seedling: &nbsp;Currently I'm learning:</b></summary>
   <br/>
   
-![image]({https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white})
-![.NET]({https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white})&nbsp;
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
